@@ -43,7 +43,7 @@ I'm a professional software developer for more than six years.
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-d84715?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-1c8cae?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white&labelColor=101010)]()
 [![Windows](https://img.shields.io/badge/Windows-0396ed?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
 [![MacOS](https://img.shields.io/badge/MacOS-f0614e?style=for-the-badge&logo=macos&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-f1b70f?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
