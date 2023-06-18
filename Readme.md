@@ -1,5 +1,5 @@
 # Hello, my name is Antonio Olvera
-### Freelance full-stack JavaScipt - .Net and IOS & Android engineer
+### Freelance full-stack developer
 
 I'm a professional software developer for more than six years.
 
